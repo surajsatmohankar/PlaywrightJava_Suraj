@@ -15,6 +15,7 @@ public class FirstTest extends BaseTest{
 			
 		}
 		System.out.println("The Page Title is:"+page.title());
+//		System.out.println("the program is wonderful");
 	}
 
 //	public static void main(String[] args) {
